@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Screenshots
+screenshots/
+
+# Vosk Models
+vosk-model-small-en-us-0.15/
+
+# System Files
+.DS_Store
+Thumbs.db
